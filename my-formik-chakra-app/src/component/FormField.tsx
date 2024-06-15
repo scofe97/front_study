@@ -1,4 +1,4 @@
-import React, { ReactNode } from 'react';
+import { ReactNode } from 'react';
 import { useField } from 'formik';
 import { FormControl, FormLabel, FormErrorMessage } from '@chakra-ui/react';
 
